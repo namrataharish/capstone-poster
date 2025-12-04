@@ -1,4 +1,4 @@
-# Deep Learning–Based Lung Sound Generation – Poster
+# Deep Learning-Based Lung Sound Generation - Poster
 
 This repository contains the project poster for my senior capstone project, which involved building a conditional variational autoencoder (CVAE) to generate customizable lung sounds for medical training simulations.
 
